@@ -1,0 +1,10 @@
+
+f	java:S114s"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ý¯ÿ­
+h
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÏÌÕí
+M
+java:S25895"7Remove this expression which always evaluates to "true"(Ü¢°Í
+O
+java:S1068"4Remove this unused "selectedPosition" private field.(¶•¬Ìþÿÿÿÿ
+T
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(ñÕýö

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ItunesSearch</string>
+
+    <string name="error">Error</string>
+    <string name="somethingWentWrong">Something went wrong</string>
+    <string name="okText">OK</string>
+
+    <string name="str_btn">Sort By</string>
+    <string name="action1">Artistname</string>
+    <string name="action2">Trackname</string>
+    <string name="action3">Collectionname</string>
+    <string name="action4">Collectionprice</string>
+    <string name="action5">Releasedate</string>
+    <string name="action6">Artworkurl100</string>
+    <string name="itunes">Itunes</string>
+    <string name="edit">Edit</string>
+    <string name="sort">Sort</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="close_button">Close Button</string>
+    <string name="close_button_sorting">Close Button Sorting</string>
+    <string name="track_image">Track Image</string>
+    <string name="select_track_to_add_to_cart">Select Track To Add To Cart</string>
+    <string name="no_track">There is no track available from the API response</string>
+</resources>
